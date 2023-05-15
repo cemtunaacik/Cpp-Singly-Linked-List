@@ -78,7 +78,7 @@ void find(){
 			traveler = traveler -> next;
 		}
 		if (isFound == false)
-			cout << endl << input << " did not found\n";
+			cout << endl << input << " not found\n";
 	}
 	else 
 		cout << "\nThere is nothing to find\n";
